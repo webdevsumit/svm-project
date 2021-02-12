@@ -1,3 +1,11 @@
+
+''' In terminal or in CMD run some commands
+    pip install Ipython
+    pip install mysql-connector-python
+    pip install matplotlib
+'''
+
+
 print()
 print('************Welcome to the most famous game in the world***********')
 print('********************************TYPER******************************')
